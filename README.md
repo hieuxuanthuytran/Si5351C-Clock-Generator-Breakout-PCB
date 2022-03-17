@@ -1,2 +1,2 @@
 # Si5351C-Clock-Generator-Breakout-PCB
-PCB files for the Si5351C Clock Generator Breakout
+Electrical schematic and PCB layout files for the Si5351C Clock Generator Breakout
